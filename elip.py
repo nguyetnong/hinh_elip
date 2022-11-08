@@ -1,9 +1,9 @@
 import turtle
 import random
 r=int(input("nhap ban kinh:"))
-mau=["red","blue","green","brown","pink"]
+mau=["red","blue","green","pink","brown"]
 turtle.speed(10)
-turtle.pensize(5)
+turtle.pensize(3)
 def draw(rad):
 
       for i in range(2):
